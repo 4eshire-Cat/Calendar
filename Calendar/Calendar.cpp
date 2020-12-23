@@ -1,6 +1,7 @@
 ﻿#include <iostream>
 #include <string.h>//работа со строками
 using namespace std;
+//int fun1(int d, int m, int y);
 
 int fun3(int m, int y)
 {
